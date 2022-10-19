@@ -2,6 +2,8 @@
 
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
 
+19/10/2022
+
 So, you want to use git, right? 
 
 But you don't just want to learn commands, you want to understand what you're using? 
